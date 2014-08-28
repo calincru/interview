@@ -108,7 +108,8 @@ Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[
 * **Coding for Interviews** [[web][g_cfi]]
 * **Here's How to Prepare for Tech Interviews** [[reddit][g_rd]]
 * **Programming Interviews Exposed** [[Amazon][g_pie_amzn]] [[pdf][g_pie_pdf]]
-* **Elements of Programming Interviews** [[Amazon][g_epibook]] [[web][g_epiweb]] 
+* **Elements of Programming Interviews** [[Amazon][g_epibook]] [[web][g_epiweb]]
+* **Hired in Tech** [[Hired In Tech]][g_hiredInTech]
 
 **Quora**:
 * [How to prepare for my Google/Facebook interview if I have 6 months left?](http://www.quora.com/Career-Advice/What-are-the-ways-to-utilize-6-months-to-build-skill-set-to-get-into-Facebook-or-Google)
@@ -127,6 +128,7 @@ Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[
 [g_tgr_pdf]: https://www.google.com/search?q=the+google+resume+pdf
 [g_epiweb]: https://code.google.com/p/elements-of-programming-interviews/
 [g_epibook]: http://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836
+[g_hiredInTech]: http://www.hiredintech.com/
 
 
 ## Language-specific
